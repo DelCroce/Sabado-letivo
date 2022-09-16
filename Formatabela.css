@@ -14,16 +14,20 @@
 table,
 td {
     border: solid 1px black;
+    /* padding: 15px 30px; */
+    width: auto;
 }
 
 td {
-    padding: 20px 40px;
+    /*padding: 20px 40px;*/
     text-align: center;
 }
 
 tr {
-    width: 20%
+    width: auto;
 }
+
+
 
 #x2 {
     background-color: aqua;
